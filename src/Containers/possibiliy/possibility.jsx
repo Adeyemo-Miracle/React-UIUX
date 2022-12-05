@@ -8,10 +8,10 @@ const possibility = () => {
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
       </div>
-      <div className="gpt__possibility-content">
+      <div className="gpt3__possibility-content">
         <h4>Request Early Access to Get Started</h4>
         <h1 className='gradient__text'>The possibities are beyond your imagination</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vitae voluptate? Id at, fugiat distinctio quas dolore, quasi sit reiciendis et quaerat, harum magnam! Exercitationem.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, vitae voluptate? Id at, fugiat distinctio quas dolore, quasi sit reiciendis et quaerat, harum magnam! Exercitationem Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat rem, non consequatur ipsam error sunt cupiditate explicabo nam voluptates nihil</p>
         <h4>Request Early Access to Get Started</h4>
       </div>
     </div>
